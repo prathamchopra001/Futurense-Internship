@@ -1,3 +1,6 @@
 [submodule "Project-1-Healthcare_data_cleaning"]
 	path = Project-1-Healthcare_data_cleaning
 	url = https://github.com/prathamchopra001/Healthcare-Data-Cleaning.git
+[submodule "Project-4-Healthcare"]
+	path = Project-4-Healthcare
+	url = https://github.com/prathamchopra001/Project-4-Healthcare.git
